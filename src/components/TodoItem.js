@@ -2,7 +2,7 @@ import React from "react";
 
 function TodoItem(props) {
     const completedStyle = {
-        fontStyle: "itakic",
+        fontStyle: "italic",
         color: "#cdcdcd",
         textDecoration: "line-through"
     }
